@@ -1,79 +1,25 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+  <a align="center" href="https://eumseungju.notion.site/RN-TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4">
+    <img src="Frame1433.png" alt="tincle" width="700">
+  </a>
+  
+# 크라우드 펀딩식 선물 플랫폼 TIKKLE
 
-# Getting Started
+커피, 치킨 기프티콘.. 진부하잖아요?
+이제 에어팟, 버즈, 애플워치, 각종 명품을 선물로 주고 받아 보세요.
+정말 받고 싶은 선물을 받는 앱, 티클을 소개합니다!
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+기념일 펀딩 "티클링"을 시작해 보세요.
+티클링을 공유해서 친구들로 부터 티클을 선물 받아 상품을 완성하세요!
+티클이 전부 모이면 상품으로 교환해서 배송받을 수 있어요.
 
-## Step 1: Start the Metro Server
+이제 티클과 함께, 친구가 정말 갖고 싶어하는 것을 선물 해주세요!
+작은 정성으로도 의미 있는 축하의 마음을 나눠보세요.
+## 링크
+- [‎Notion](https://eumseungju.notion.site/RN-TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4)
+- [‎앱스토어 다운로드](https://apps.apple.com/kr/app/%ED%8B%B0%ED%81%B4/id6471217574)
+- [‎플레이 스토어 다운로드](https://play.google.com/store/apps/details?id=com.tikkle_revive_ios&hl=ko-KR)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## 앱 구조
+<a>
+   <img src="Group771.png" alt="tincle" width="700">
+</a>
